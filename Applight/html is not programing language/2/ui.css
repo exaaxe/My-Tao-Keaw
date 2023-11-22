@@ -1,0 +1,26 @@
+html, body {
+	background-color: lightgray;
+	margin: 0;
+	padding: 0;
+}
+
+.maincontent {
+	max-width: 700px;
+}
+
+.box {
+	background-color: white;
+	padding: 20px;
+	margin: 30px;
+}
+.image {
+	width:  100%;
+}
+
+.button {
+	color: black;
+	background-color: lightgray;
+	padding: 10px;
+	text-decoration: none;
+	display: inline-block;
+}
